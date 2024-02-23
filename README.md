@@ -1,4 +1,4 @@
-# Previsao do Valor de Venda de Veiculos
+# Previsão do Valor de Venda de Veiculos
 Previsão do Valor de Venda de Veículos com Algoritmos de Linear Regression (com PCA) e Random Forest
 
 # Conclusão
